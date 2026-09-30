@@ -1,3 +1,6 @@
+//Rubén Benjamín Fuentes Ortiz
+
+
 type CallbackBono = (antiguedad: number) => number;
 
 function pagoHorasExtra(tarifa: number = 4.00, ...horas: number[]): number {
